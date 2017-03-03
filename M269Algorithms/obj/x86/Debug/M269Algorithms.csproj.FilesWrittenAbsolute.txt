@@ -1,0 +1,15 @@
+/Users/davidbarth/Desktop/___STUDIES/_PROGRAMMING/_____C#/M269Algorithms/M269Algorithms/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/davidbarth/Desktop/___STUDIES/_PROGRAMMING/_____C#/M269Algorithms/M269Algorithms/bin/Debug/M269Algorithms.exe.mdb
+/Users/davidbarth/Desktop/___STUDIES/_PROGRAMMING/_____C#/M269Algorithms/M269Algorithms/bin/Debug/M269Algorithms.exe
+/Users/davidbarth/Desktop/___STUDIES/_PROGRAMMING/_____C#/M269Algorithms/M269Algorithms/obj/x86/Debug/M269Algorithms.exe
+/Users/davidbarth/Desktop/___STUDIES/_PROGRAMMING/_____C#/M269Algorithms/M269Algorithms/obj/x86/Debug/M269Algorithms.exe.mdb
+/Users/davidbarth/Desktop/___STUDIES/_PROGRAMMING/_____C#/__CODE/M269Algorithms/M269Algorithms/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/davidbarth/Desktop/___STUDIES/_PROGRAMMING/_____C#/__CODE/M269Algorithms/M269Algorithms/bin/Debug/M269Algorithms.exe.mdb
+/Users/davidbarth/Desktop/___STUDIES/_PROGRAMMING/_____C#/__CODE/M269Algorithms/M269Algorithms/bin/Debug/M269Algorithms.exe
+/Users/davidbarth/Desktop/___STUDIES/_PROGRAMMING/_____C#/__CODE/M269Algorithms/M269Algorithms/obj/x86/Debug/M269Algorithms.exe
+/Users/davidbarth/Desktop/___STUDIES/_PROGRAMMING/_____C#/__CODE/M269Algorithms/M269Algorithms/obj/x86/Debug/M269Algorithms.exe.mdb
+/Users/davidbarth/Desktop/___STUDIES/_PROGRAMMING/_____C#/__Algorithms/M269Algorithms/M269Algorithms/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/davidbarth/Desktop/___STUDIES/_PROGRAMMING/_____C#/__Algorithms/M269Algorithms/M269Algorithms/bin/Debug/M269Algorithms.exe.mdb
+/Users/davidbarth/Desktop/___STUDIES/_PROGRAMMING/_____C#/__Algorithms/M269Algorithms/M269Algorithms/bin/Debug/M269Algorithms.exe
+/Users/davidbarth/Desktop/___STUDIES/_PROGRAMMING/_____C#/__Algorithms/M269Algorithms/M269Algorithms/obj/x86/Debug/M269Algorithms.exe
+/Users/davidbarth/Desktop/___STUDIES/_PROGRAMMING/_____C#/__Algorithms/M269Algorithms/M269Algorithms/obj/x86/Debug/M269Algorithms.exe.mdb
